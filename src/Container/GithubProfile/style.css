@@ -1,0 +1,15 @@
+.github-profile {
+  margin-top: 2%;
+  width: auto;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  align-self: center;
+  justify-self: center;
+}
+
+.search-box {
+  border: 2px solid rgb(174, 174, 243);
+  margin-right: 4px;
+  background-color: rgb(209, 209, 216);
+}
